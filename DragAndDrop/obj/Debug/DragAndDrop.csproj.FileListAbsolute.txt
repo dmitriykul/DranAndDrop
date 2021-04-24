@@ -1,0 +1,10 @@
+H:\Microsoft Visual Studio\repos\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe.config
+H:\Microsoft Visual Studio\repos\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe
+H:\Microsoft Visual Studio\repos\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.pdb
+H:\Microsoft Visual Studio\repos\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csprojAssemblyReference.cache
+H:\Microsoft Visual Studio\repos\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Form1.resources
+H:\Microsoft Visual Studio\repos\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+H:\Microsoft Visual Studio\repos\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.cache
+H:\Microsoft Visual Studio\repos\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csproj.CoreCompileInputs.cache
+H:\Microsoft Visual Studio\repos\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.exe
+H:\Microsoft Visual Studio\repos\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.pdb
